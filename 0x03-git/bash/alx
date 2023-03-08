@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "ALX"
+^C
+root@29c5794f0fca:/alx-zero_day/0x03-git/bash#clear
+root@29c5794f0fca:/alx-zero_day/0x03-git/bash# clear
+root@29c5794f0fca:/alx-zero_day/0x03-git/bash# cd ..
